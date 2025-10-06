@@ -4,7 +4,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org)
 [![Qiskit](https://img.shields.io/badge/Qiskit-1.0%2B-purple)](https://qiskit.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-ICQFRPM%202025-yellow)](https://example.com/paper)
 
 > **A cutting-edge quantum-enhanced neural framework for multi-regime credit risk assessment with path-dependent memory effects** 🧠⚡
 
