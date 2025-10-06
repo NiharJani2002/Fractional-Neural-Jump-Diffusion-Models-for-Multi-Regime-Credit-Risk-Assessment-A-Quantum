@@ -31,11 +31,9 @@ This model captures:
 
 ---
 
-## 📄 Conference Paper Support
+## 📄 Research Overview
 
-This code supports our **ICQFRPM 2025** conference paper:
-
-### 📖 Paper: Fractional-Neural Jump-Diffusion Models for Multi-Regime Credit Risk Assessment: A Quantum-Enhanced Optimization Framework with Path-Dependent Memory Effects
+### 📖 Fractional-Neural Jump-Diffusion Models for Multi-Regime Credit Risk Assessment: A Quantum-Enhanced Optimization Framework with Path-Dependent Memory Effects
 
 **Key Contributions:**
 1. **Novel Fractional Kernel**: Mathematically rigorous implementation of memory effects in credit dynamics
@@ -331,9 +329,6 @@ Financial time series have varying scales and non-stationary statistics. Layer n
 - ASCII art in the neural architecture diagram took way too long to perfect 😅
 
 ---
-```
-
----
 
 ## 🤝 Contributing
 
@@ -381,7 +376,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: Use GitHub issues for bug reports and feature requests
 - **Discussions**: Join our [Discussions](https://github.com/NiharJani2002/Fractional-Neural-Jump-Diffusion-Models-for-Multi-Regime-Credit-Risk-Assessment-A-Quantum/discussions) for questions
 - **Email**: [niharmaheshjani@gmail.com](mailto:niharmaheshjani@gmail.com)
-- **Paper Questions**: Reference ICQFRPM 2025 proceedings
 
 ---
 
@@ -406,4 +400,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Made with ❤️ by researchers who believe quantum + AI = the future of finance*
+*Made with ❤️ by researchers who believe quantum + AI = the future of finance*****
