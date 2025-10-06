@@ -263,7 +263,7 @@ Epoch  10 | SDE Loss: 0.012891 | Trans Loss: -0.019234
 [4/5] Portfolio Optimization...
 ✓ Classical weights: [0.156 0.234 0.198 0.201 0.211]
   Objective: -0.008234
-✓ Quantum weights: [0.200 0.200 0.200 0.200 0.200]
+✓ Quantum weights: [0. 0. 1. 0. 0.]
   Objective: -0.007891
 
 [5/5] Performance Evaluation...
